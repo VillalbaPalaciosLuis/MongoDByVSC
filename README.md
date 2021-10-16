@@ -1,6 +1,7 @@
 # Primer repositorio
 ## Luis Villalba Palacios
-##### 1º ASIR A
+##1º ASIR A
+##Gestión de bases de datos
 
 **Segundo repositorio de la asignatura de Gestión de bases de datos**
 
