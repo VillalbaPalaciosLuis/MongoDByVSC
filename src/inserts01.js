@@ -1,0 +1,5 @@
+db.inventory01.deleteMany({})
+db.inventory01.insertOne(    {prenda:"Zapatillas", qty:200, tipo:{talla:41, color:"Negro", marca:"Nike"}} )
+db.inventory01.insertOne(    {prenda:"Sudadera", qty:100, tipo:{talla:"XL", color:"Blanco", marca:"Adidas"}} )
+db.inventory01.insertOne(    {prenda:"Calcetines", qty:800, tipo:{talla:41, color:"Blanco", marca:"Artengo"}} )
+db.inventory01.insertOne(    {prenda:"Pantalones", qty:50, tipo:{talla:41, color:"Azules", marca:"Bershka"}} )
