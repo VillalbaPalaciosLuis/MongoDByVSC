@@ -1,9 +1,9 @@
-# Primer repositorio
+# Segundo repositorio
 ## Luis Villalba Palacios
 ### 1º ASIR A
 ### Gestión de bases de datos
 
-**Segundo repositorio de la asignatura de Gestión de bases de datos**
+
 
 En esta práctica vamos a aprender a utilizar mongoDB y Visual Studio Code. Se incluyen:
 
